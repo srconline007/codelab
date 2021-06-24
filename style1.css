@@ -1,0 +1,44 @@
+h1
+{
+   /* padding-left: 500px;
+    padding-top: 200px;
+    padding-right: 500px;
+    padding-bottom: 200px; */
+   margin-left: 1200px;
+     
+    background-color: chartreuse;
+
+}
+h1:hover
+{
+    background-color: white;
+   /* width: fit-content; */
+}
+body
+{
+    background-color: darkcyan;
+}
+.main_con
+{
+    
+}
+
+.head
+{
+    position: absolute;
+}
+.btn
+{   margin-bottom: 50px;
+    margin-left: 900px;
+    cursor: pointer;
+    position: relative;
+    padding: 1rem 2rem;
+    border-radius: 3.75rem;
+    line-height: 2.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+
+    border: 4px solid black;
+    background-image: linear-gradient(180deg, #71c9ce 0%,yellow 100%); 
+    box-shadow:  1rem 0 1.25rem 0 #134d50 inset;
+}
